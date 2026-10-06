@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LEGAL.TOP</title>
+  <script>
+    (() => {
+      const routes = {
+        '/kik-v2': '/#cfc',
+        '/kik-v2/': '/#cfc',
+        '/io': '/#foreign-participation',
+        '/io/': '/#foreign-participation',
+        '/red': '/#redomiciliation',
+        '/red/': '/#redomiciliation',
+        '/3': '/#ndfl',
+        '/3/': '/#ndfl',
+        '/nalog': '/#tax-disputes',
+        '/nalog/': '/#tax-disputes',
+        '/DD': '/#due-diligence',
+        '/DD/': '/#due-diligence',
+        '/dd': '/#due-diligence',
+        '/dd/': '/#due-diligence',
+        '/bank': '/#foreign-bank',
+        '/bank/': '/#foreign-bank',
+        '/port': '/#partners',
+        '/port/': '/#partners',
+        '/conf': '/privacy.html',
+        '/conf/': '/privacy.html'
+      };
+      const target = routes[location.pathname];
+      if (target) location.replace(target + location.search);
+    })();
+  </script>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body class="privacy-page">
+  <header class="site-header privacy-header"><div class="container header-inner"><a class="brand" href="/">LEGAL<span>.TOP</span></a></div></header>
+  <main class="privacy-wrap"><p class="eyebrow eyebrow-dark">404</p><h1>Страница не найдена</h1><p>Возможно, ссылка устарела после обновления сайта.</p><p><a href="/">← На главную</a></p></main>
+</body>
+</html>
