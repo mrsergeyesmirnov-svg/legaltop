@@ -112,8 +112,13 @@ button, input, textarea { font: inherit; }
 .team-photo { display:block; width:150px; aspect-ratio:260/337; height:auto; object-fit:cover; object-position:center top; border:1px solid rgba(255,255,255,.14); filter:saturate(.82) contrast(1.03); }
 .team-secondary h3 { margin:0; font:400 40px/1 var(--serif); }
 .team-secondary .role { margin-top:14px; max-width:440px; font-size:14px; line-height:1.55; }
-.partner-panel { display:grid; grid-template-columns:1fr .8fr; gap:100px; padding:70px; background:var(--white); }
+.partner-panel { display:grid; grid-template-columns:1fr .8fr; gap:56px 100px; padding:70px; background:var(--white); }
 .partner-copy p { margin:0 0 18px; color:#5f6864; line-height:1.7; }
+.partner-logos { grid-column:1 / -1; display:grid; grid-template-columns:repeat(4,1fr); border-top:1px solid var(--line); border-left:1px solid var(--line); }
+.partner-logo-card { min-height:150px; display:flex; align-items:center; justify-content:center; padding:28px; border-right:1px solid var(--line); border-bottom:1px solid var(--line); background:#fff; transition:transform .2s ease, background .2s ease; }
+.partner-logo-card:hover { background:#faf8f3; transform:translateY(-2px); }
+.partner-logo-card img { display:block; width:100%; max-width:180px; max-height:82px; object-fit:contain; }
+.partner-cta { grid-column:1 / -1; }
 
 .contact-section { padding:110px 0; background:#0a121b; color:var(--white); }
 .contact-grid { display:grid; grid-template-columns:1fr .85fr; gap:100px; align-items:end; }
@@ -151,6 +156,7 @@ button, input, textarea { font: inherit; }
   .value-card h3 { margin-top:28px; }
   .jurisdiction-grid { grid-template-columns:repeat(2,1fr); }
   .partner-panel { padding:44px; }
+  .partner-logos { grid-template-columns:repeat(2,1fr); }
 }
 
 @media (max-width: 720px) {
@@ -179,6 +185,8 @@ button, input, textarea { font: inherit; }
   .team-secondary-profile { grid-template-columns:96px 1fr; gap:20px; align-items:start; }
   .team-photo { width:96px; }
   .partner-panel { padding:32px 24px; }
+  .partner-logos { grid-template-columns:1fr 1fr; }
+  .partner-logo-card { min-height:120px; padding:20px; }
   .contact-section { padding:84px 0; }
   .contact-links a { grid-template-columns:1fr auto; }
   .contact-links span { grid-column:1 / -1; }
