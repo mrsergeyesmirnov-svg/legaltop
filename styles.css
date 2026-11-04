@@ -105,6 +105,8 @@ button, input, textarea { font: inherit; }
 .language-line span { border:1px solid rgba(255,255,255,.16); padding:8px 11px; border-radius:999px; font-size:11px; color:rgba(255,255,255,.7); }
 .light-link { color:var(--white); }
 .team-secondary { display:grid; grid-template-columns:.8fr 1.2fr; gap:100px; margin-top:90px; padding-top:48px; border-top:1px solid var(--line-light); }
+.team-secondary-profile { display:grid; grid-template-columns:150px 1fr; gap:28px; align-items:center; }
+.team-photo { display:block; width:150px; aspect-ratio:260/337; height:auto; object-fit:cover; object-position:center top; border:1px solid rgba(255,255,255,.14); filter:saturate(.82) contrast(1.03); }
 .team-secondary h3 { margin:0; font:400 40px/1 var(--serif); }
 .team-secondary .role { margin-top:14px; max-width:440px; font-size:14px; line-height:1.55; }
 .partner-panel { display:grid; grid-template-columns:1fr .8fr; gap:100px; padding:70px; background:var(--white); }
@@ -170,6 +172,8 @@ button, input, textarea { font: inherit; }
   .jurisdiction-grid { grid-template-columns:1fr; }
   .jurisdiction-card { min-height:190px; }
   .founder-mark { min-height:380px; }
+  .team-secondary-profile { grid-template-columns:96px 1fr; gap:20px; align-items:start; }
+  .team-photo { width:96px; }
   .partner-panel { padding:32px 24px; }
   .contact-section { padding:84px 0; }
   .contact-links a { grid-template-columns:1fr auto; }
