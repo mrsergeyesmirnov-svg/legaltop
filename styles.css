@@ -35,7 +35,10 @@ button, input, textarea { font: inherit; }
 .menu-toggle span { display:block; width:100%; height:1px; background:var(--white); margin:7px 0; }
 
 .hero { position: relative; overflow: hidden; min-height: 820px; padding: 180px 0 42px; background: var(--ink); color: var(--white); }
-.hero:before { content:''; position:absolute; inset:0; background: radial-gradient(circle at 78% 34%, rgba(196,168,120,.12), transparent 26%), linear-gradient(115deg, transparent 0 52%, rgba(255,255,255,.025) 52% 53%, transparent 53%); pointer-events:none; }
+.hero:before { content:''; position:absolute; inset:0; background:
+linear-gradient(90deg, rgba(13,23,34,.97) 0%, rgba(13,23,34,.93) 44%, rgba(13,23,34,.66) 100%),
+url('./assets/hero-justice.webp') center right / cover no-repeat;
+pointer-events:none; }
 .hero-orbit { position:absolute; border:1px solid rgba(232,213,173,.13); border-radius:50%; pointer-events:none; }
 .hero-orbit-one { width:560px; height:560px; right:-180px; top:70px; }
 .hero-orbit-two { width:760px; height:760px; right:-230px; top:-30px; }
@@ -88,6 +91,7 @@ button, input, textarea { font: inherit; }
 .jurisdiction-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-top:64px; }
 .jurisdiction-card { min-height:230px; padding:26px; background:var(--white); border:1px solid rgba(13,23,34,.08); display:flex; flex-direction:column; }
 .jurisdiction-card > span { width:42px; height:42px; border-radius:50%; display:grid; place-items:center; background:var(--ink); color:var(--gold-light); font-size:11px; letter-spacing:.06em; }
+.jurisdiction-image { width:82px; height:54px; object-fit:contain; object-position:left center; }
 .jurisdiction-card strong { margin-top:auto; font:400 31px/1 var(--serif); }
 .jurisdiction-card small { margin-top:10px; color:#7b817d; }
 
@@ -199,3 +203,6 @@ button, input, textarea { font: inherit; }
   *, *:before, *:after { transition:none!important; animation:none!important; }
   .reveal { opacity:1; transform:none; }
 }
+.brand-image-link { display:inline-flex; align-items:center; }
+.brand-image { display:block; width:152px; height:auto; max-height:46px; object-fit:contain; }
+.brand-image-footer { width:138px; }
