@@ -1,0 +1,112 @@
+{
+  "projectId": "9646409",
+  "source": "Tilda project UI",
+  "repository": "mrsergeyesmirnov-svg/legaltop",
+  "targetBranch": "restore-original-legal-top",
+  "baseline": "c885d52d6f947fd5a985f1e4506711f79c78c55e",
+  "status": "Inventory verified; page contents not yet extracted",
+  "pages": [
+    {
+      "id": "49322791",
+      "title": "Юридические услуги по налогам для бизнеса",
+      "editorUrl": "https://tilda.ru/page/?pageid=49322791&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "65798293",
+      "title": "Юридические услуги - уведомления и отчетность по КИК",
+      "editorUrl": "https://tilda.ru/page/?pageid=65798293&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "65845625",
+      "title": "Уведомление об ИО",
+      "editorUrl": "https://tilda.ru/page/?pageid=65845625&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "66527005",
+      "title": "3-ндфл",
+      "editorUrl": "https://tilda.ru/page/?pageid=66527005&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "66559335",
+      "title": "редомициляция",
+      "editorUrl": "https://tilda.ru/page/?pageid=66559335&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "66560537",
+      "title": "Portfolio",
+      "editorUrl": "https://tilda.ru/page/?pageid=66560537&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "66562567",
+      "title": "Сопровождение налоговых проверок",
+      "editorUrl": "https://tilda.ru/page/?pageid=66562567&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "66970813",
+      "title": "Подробнее Сопровождение налоговых проверок",
+      "editorUrl": "https://tilda.ru/page/?pageid=66970813&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "66971333",
+      "title": "иностранные счета",
+      "editorUrl": "https://tilda.ru/page/?pageid=66971333&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "67127975",
+      "title": "Подробнее редомициляция",
+      "editorUrl": "https://tilda.ru/page/?pageid=67127975&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "69207381",
+      "title": "Copy of Юридические услуги - уведомления и отчетность по КИК",
+      "editorUrl": "https://tilda.ru/page/?pageid=69207381&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "77516716",
+      "title": "конфиденциальность",
+      "editorUrl": "https://tilda.ru/page/?pageid=77516716&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "93499636",
+      "title": "Налоговый Due Diligence",
+      "editorUrl": "https://tilda.ru/page/?pageid=93499636&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "93538936",
+      "title": "кейс Шератон",
+      "editorUrl": "https://tilda.ru/page/?pageid=93538936&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "93547046",
+      "title": "Организация международного бизнеса",
+      "editorUrl": "https://tilda.ru/page/?pageid=93547046&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "93547746",
+      "title": "Редом",
+      "editorUrl": "https://tilda.ru/page/?pageid=93547746&projectid=9646409",
+      "extracted": false
+    },
+    {
+      "id": "69335535",
+      "title": "Footer",
+      "editorUrl": "https://tilda.ru/page/?pageid=69335535&projectid=9646409",
+      "extracted": false
+    }
+  ]
+}

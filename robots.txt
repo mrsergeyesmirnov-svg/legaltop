@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://legal.top/sitemap.xml

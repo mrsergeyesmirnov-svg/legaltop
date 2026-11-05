@@ -1,0 +1,138 @@
+[
+  {
+    "route": "/",
+    "file": "index.html",
+    "ok": true,
+    "bytes": 55016,
+    "title": "Юридические услуги по налогам для бизнеса",
+    "page_id": "49322791"
+  },
+  {
+    "route": "/kik",
+    "file": "kik.html",
+    "ok": true,
+    "bytes": 56326,
+    "title": "Юридические услуги - уведомления и отчетность по КИК",
+    "page_id": "65798293"
+  },
+  {
+    "route": "/io",
+    "file": "io.html",
+    "ok": true,
+    "bytes": 38508,
+    "title": "Уведомление об ИО",
+    "page_id": "65845625"
+  },
+  {
+    "route": "/3",
+    "file": "3.html",
+    "ok": true,
+    "bytes": 32111,
+    "title": "3-ндфл",
+    "page_id": "66527005"
+  },
+  {
+    "route": "/red",
+    "file": "red.html",
+    "ok": true,
+    "bytes": 32107,
+    "title": "редомициляция",
+    "page_id": "66559335"
+  },
+  {
+    "route": "/port",
+    "file": "port.html",
+    "ok": true,
+    "bytes": 31217,
+    "title": "Portfolio",
+    "page_id": "66560537"
+  },
+  {
+    "route": "/nalog",
+    "file": "nalog.html",
+    "ok": true,
+    "bytes": 32902,
+    "title": "Сопровождение налоговых проверок",
+    "page_id": "66562567"
+  },
+  {
+    "route": "/nalog1",
+    "file": "nalog1.html",
+    "ok": true,
+    "bytes": 57431,
+    "title": "Подробнее Сопровождение налоговых проверок",
+    "page_id": "66970813"
+  },
+  {
+    "route": "/bank",
+    "file": "bank.html",
+    "ok": true,
+    "bytes": 43908,
+    "title": "иностранные счета",
+    "page_id": "66971333"
+  },
+  {
+    "route": "/red1",
+    "file": "red1.html",
+    "ok": true,
+    "bytes": 42066,
+    "title": "Подробнее редомициляция",
+    "page_id": "67127975"
+  },
+  {
+    "route": "/kik-v2",
+    "file": "kik-v2.html",
+    "ok": true,
+    "bytes": 49726,
+    "title": "Copy of Юридические услуги - уведомления и отчетность по КИК",
+    "page_id": "69207381"
+  },
+  {
+    "route": "/conf",
+    "file": "conf.html",
+    "ok": true,
+    "bytes": 48937,
+    "title": "конфиденциальность",
+    "page_id": "77516716"
+  },
+  {
+    "route": "/dd",
+    "file": "dd.html",
+    "ok": true,
+    "bytes": 32354,
+    "title": "Налоговый Due Diligence",
+    "page_id": "93499636"
+  },
+  {
+    "route": "/case1",
+    "file": "case1.html",
+    "ok": true,
+    "bytes": 29397,
+    "title": "кейс Шератон",
+    "page_id": "93538936"
+  },
+  {
+    "route": "/case2",
+    "file": "case2.html",
+    "ok": true,
+    "bytes": 29710,
+    "title": "Организация международного бизнеса ",
+    "page_id": "93547046"
+  },
+  {
+    "route": "/page93547746.html",
+    "file": "page93547746.html",
+    "ok": false,
+    "bytes": 0,
+    "title": null,
+    "page_id": null
+  },
+  {
+    "route": "/page69335535.html",
+    "file": "page69335535.html",
+    "ok": true,
+    "bytes": 12660,
+    "title": "Подвал",
+    "page_id": "69335535"
+  }
+]
