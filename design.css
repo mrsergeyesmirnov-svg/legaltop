@@ -1,0 +1,54 @@
+:root{--legal-ink:#192e3c;--legal-blue:#429db2;--legal-paper:#f7f9f8;--legal-line:#dde6e8}
+#rec1514315621 .tmenu-mobile{background:#fff!important;border-bottom:1px solid #dde6e8}
+#rec1514315621 .tmenu-mobile__text{color:#429db2!important;font-family:Georgia,serif;letter-spacing:1px}
+#rec1514315621 .t-menuburger span{background-color:#192e3c!important}
+.legal-hero-actions{padding-left:15px}
+.legal-hero-note{margin-left:15px}
+html{scroll-behavior:smooth;scroll-padding-top:110px}
+body{background:var(--legal-paper);-webkit-font-smoothing:antialiased}
+body .t-records{color:var(--legal-ink)}
+#rec1514315621 .t228{background:rgba(255,255,255,.94)!important;border-bottom:1px solid var(--legal-line);backdrop-filter:blur(16px)}
+#rec1514315621 .t-menu__link-item{font-size:14px!important;font-weight:500!important;color:var(--legal-ink)!important;transition:color .2s}
+#rec1514315621 .t-menu__link-item:hover{color:var(--legal-blue)!important}
+#rec1514315621 .t-btn{border-radius:100px!important;background:var(--legal-ink)!important;color:#fff!important}
+#rec1514315621 .t228__imglogo{max-height:100px!important}
+#recorddiv751409749,#recorddiv751409749 .t-cover__carrier,#recorddiv751409749 .t-cover__filter,#recorddiv751409749 .t-cover__wrapper{height:790px!important;min-height:680px}
+#recorddiv751409749{background:#edf3f3!important;overflow:hidden}
+#recorddiv751409749 .t-cover__carrier{left:39%;width:61%;background-position:center!important;opacity:.67}
+#recorddiv751409749 .t-cover__filter{background:linear-gradient(90deg,#f4f8f7 0%,#f4f8f7 35%,rgba(244,248,247,.94) 43%,rgba(244,248,247,.12) 76%,rgba(244,248,247,.2))!important}
+#recorddiv751409749 .t153{text-align:left;padding:145px 0 72px;max-width:770px}
+#recorddiv751409749 .t153__title{font:400 clamp(44px,4.7vw,66px)/1.08 Georgia,'Times New Roman',serif!important;letter-spacing:-2px;color:var(--legal-ink)!important;max-width:740px}
+.legal-eyebrow{display:block;margin-bottom:30px;font:600 13px/1.4 'TildaSans',Arial,sans-serif;letter-spacing:3px;color:var(--legal-blue)}
+.legal-hero-actions{display:flex;align-items:center;gap:30px;margin-top:38px;font:500 15px/1.3 'TildaSans',Arial,sans-serif}
+.legal-hero-actions a{color:var(--legal-ink)!important;text-decoration:none!important}
+.legal-hero-actions a:first-child{padding:19px 28px;background:var(--legal-blue);color:#fff!important;border-radius:100px;transition:background .2s,transform .2s}
+.legal-hero-actions a:first-child:hover{background:#31879a;transform:translateY(-2px)}
+.legal-hero-note{margin-top:46px;font:400 14px/1.6 'TildaSans',Arial,sans-serif;color:#627780;border-top:1px solid #cddcde;padding-top:20px;max-width:420px}
+body .t-section__title,body .t551__title{font-family:Georgia,'Times New Roman',serif!important;font-weight:400!important;letter-spacing:-.8px!important}
+body .t-section__title{font-size:42px!important;line-height:1.16!important;color:var(--legal-ink)!important}
+body .t-section__descr{color:#536772!important;line-height:1.7!important;font-size:19px!important}
+#rec751409752{background:#fff!important;padding-top:110px!important;padding-bottom:110px!important}
+#rec751409752 .t-section__title{text-transform:none;max-width:600px}
+#rec751409752 .t-section__descr{max-width:850px!important;margin-bottom:65px!important}
+#rec751409752 .t490__col{box-sizing:border-box;background:var(--legal-paper);border:1px solid var(--legal-line);border-radius:12px;padding:34px 26px;text-align:left}
+#rec751409752 .t490__wrappercenter{text-align:left}
+#rec751409752 .t490__img{width:48px!important;height:48px!important;margin-bottom:24px}
+#rec751409752 .t-card__title{color:var(--legal-ink);font-size:23px!important}
+#rec751409752 .t-card__descr{color:#62727a;font-size:16px!important;line-height:1.6}
+#rec756997152{background:#f2f6f6!important;padding-top:105px!important;padding-bottom:100px!important}
+#rec756997152 .t-card__col{box-sizing:border-box;background:#fff;border:1px solid var(--legal-line);border-radius:10px;padding:30px!important;margin-bottom:18px!important;transition:transform .25s,border-color .25s,box-shadow .25s}
+#rec756997152 .t-card__col:hover{transform:translateY(-4px);border-color:#88b9c4;box-shadow:0 15px 30px #1935440a}
+#rec756997152 .t-card__title,#rec756997152 .t-card__title a{color:var(--legal-ink)!important;font-size:24px!important;line-height:1.25!important}
+#rec756997152 .t-card__descr,#rec756997152 .t-card__descr a{color:#647680!important;font-size:16px!important;line-height:1.6!important}
+#rec757000294{background:#fff!important;padding-top:100px!important;padding-bottom:100px!important}
+#rec912099370,#rec1474351981{background:#f6f8f7!important}
+#rec912099370 img,#rec1474351981 img{border-radius:10px}
+#rec756031828{background:#fff!important;padding-top:100px!important;padding-bottom:110px!important}
+#rec756031828 .t-section__descr{margin-bottom:55px!important}
+#rec756031828 .legal-partner{border-radius:12px;background:#f9fbfa}
+#rec1044822736{background:#203744!important;padding-top:100px!important;padding-bottom:100px!important}
+#rec1044822741{background:#172c38!important}
+a:focus-visible{outline:3px solid #429db2;outline-offset:5px}
+@media(max-width:960px){#recorddiv751409749 .t153{padding-top:70px}#recorddiv751409749 .t-cover__carrier{left:25%;width:75%}#recorddiv751409749 .t-cover__filter{background:linear-gradient(90deg,#f4f8f7,rgba(244,248,247,.9) 60%,rgba(244,248,247,.4))!important}#recorddiv751409749 .t153__title{font-size:54px!important;max-width:660px}#rec751409752 .t490__col{margin-bottom:20px}}
+@media(max-width:640px){#recorddiv751409749,#recorddiv751409749 .t-cover__carrier,#recorddiv751409749 .t-cover__filter,#recorddiv751409749 .t-cover__wrapper{height:650px!important;min-height:0}#recorddiv751409749 .t153{padding:55px 0}#recorddiv751409749 .t153__title{font-size:42px!important;letter-spacing:-1.4px;line-height:1.13!important}.legal-eyebrow{font-size:12px;margin-bottom:24px}.legal-hero-actions{gap:20px;flex-wrap:wrap;font-size:14px;margin-top:30px}.legal-hero-actions a:first-child{padding:17px 24px}.legal-hero-note{margin-top:30px;font-size:13px}body .t-section__title{font-size:32px!important}body .t-section__descr{font-size:17px!important}#rec751409752,#rec756997152,#rec757000294,#rec756031828{padding-top:70px!important;padding-bottom:70px!important}#rec756997152 .t-card__col{padding:24px!important}#rec756997152 .t-card__title,#rec756997152 .t-card__title a{font-size:21px!important}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
